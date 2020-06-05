@@ -1,10 +1,16 @@
     
     
     Ubuntu 20.04 LTS
+    create-react-app -V  -> 3.4.1
+    
     
     rm -r node_modules
     npm install
     npm start
+    
+    
+    src/components/FormManager/FormManager.js 
+        Line 42 -> "CLEAR LOCAL STORAGE"
     
     
     
