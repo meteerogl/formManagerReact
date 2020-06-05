@@ -25,4 +25,6 @@
     
     
     
-    WILL USE https://github.com/chentsulin/sweetalert-react for notify
+    SweetAlert: https://github.com/chentsulin/sweetalert-react for notify
+    CreatedTime: https://flaviocopes.com/how-to-get-timestamp-javascript/
+    FormValidation: https://getbootstrap.com/docs/4.3/components/forms/
