@@ -22,3 +22,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "slugify": "^1.4.0"
+    
+    
+    
+    WILL USE https://github.com/chentsulin/sweetalert-react for notify
